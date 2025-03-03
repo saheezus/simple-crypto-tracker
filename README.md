@@ -36,7 +36,7 @@ A simple Next.JS app that uses the CoinGecko API to fetch real-time prices of cr
 
 OR
 
-- navigate to localhost:3000/docs/crypto_tracker 
+- navigate to http://localhost:3000/docs/crypto_tracker 
 
 
 
